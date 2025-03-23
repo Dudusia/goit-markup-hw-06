@@ -1,5 +1,11 @@
 # Changelog ${CI_PROJECT_NAME}
 
+## [1.1.0](https://gitlab.com/goit-uni/html-css-fls/goit-markup-hw-06/compare/1.0.0...1.1.0) (2025-03-23)
+
+### Features
+
+* add images ([7e1ae50](https://gitlab.com/goit-uni/html-css-fls/goit-markup-hw-06/commit/7e1ae50e33d9a3babb929c129e799aee7270920d))
+
 ## 1.0.0 (2025-03-23)
 
 ### Features
