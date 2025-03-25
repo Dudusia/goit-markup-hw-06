@@ -1,5 +1,11 @@
 # Changelog goit-markup-hw-6
 
+## [1.2.1](https://gitlab.com/goit-uni/html-css-fls/goit-markup-hw-06/compare/1.2.0...1.2.1) (2025-03-25)
+
+### Bug Fixes
+
+* extra dot and remvoe extra margin ([67e4039](https://gitlab.com/goit-uni/html-css-fls/goit-markup-hw-06/commit/67e4039b8aeb0302a93a58f5b2d2513225643b9f))
+
 ## [1.2.0](https://gitlab.com/goit-uni/html-css-fls/goit-markup-hw-06/compare/1.1.1...1.2.0) (2025-03-25)
 
 ### Features
