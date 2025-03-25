@@ -1,5 +1,11 @@
 # Changelog goit-markup-hw-6
 
+## [1.2.0](https://gitlab.com/goit-uni/html-css-fls/goit-markup-hw-06/compare/1.1.1...1.2.0) (2025-03-25)
+
+### Features
+
+* final rework ([87e1c9a](https://gitlab.com/goit-uni/html-css-fls/goit-markup-hw-06/commit/87e1c9a58d5307abf6e417a5c8542320cfa1a9e9))
+
 ## [1.1.1](https://gitlab.com/goit-uni/html-css-fls/goit-markup-hw-06/compare/1.1.0...1.1.1) (2025-03-25)
 
 ### Bug Fixes
